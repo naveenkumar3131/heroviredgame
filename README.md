@@ -1,2 +1,2 @@
 # heroviredgame
-gamedevelopment
+gamedevelopment and programmer
